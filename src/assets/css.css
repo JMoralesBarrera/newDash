@@ -1,0 +1,54 @@
+.mainContainer{
+
+    background: #621132;
+    box-sizing: border-box;
+
+}
+
+.header{
+    background: #621132;
+
+}
+
+
+.header_title{
+text-align: center;
+color:#ffffff;
+
+background: #621132;
+}
+
+
+
+.container {
+    width: 100%;
+   
+}
+
+.half-width {
+    width: 50%;
+    float: left;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .table {
+      margin: 0 0 0 0px;
+    }
+  }
+
+  .etiqueta{
+
+    
+    font-weight: 'bold';
+    color:#b38e5d;
+    background: #621132;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, sans-serif; }
+
+    
+
+    .contedor{background: #621132;
+
+    }
